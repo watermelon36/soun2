@@ -1,0 +1,9 @@
+.header_div{
+    background-color: rgb(155, 250, 123);
+}
+.main_div{
+    background-image: linear-gradient(rgb(255, 133, 212), rgb(255, 193, 107), rgb(244, 247, 111));
+}
+.copy_right_footer{
+    background-color: white;
+}
